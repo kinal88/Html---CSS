@@ -1,0 +1,39 @@
+div {
+	border-radius: 6px;
+}
+#header {
+	z-index: 2;
+	position: fixed;
+	width: 98%;
+	margin-top: -20px;
+	height: 50px;
+	
+	margin-bottom: 10px;
+}
+p {
+	font-style: italic;
+	font-size: 18px;
+	background-color: #FFCC66;
+}
+li {font-family: arial;
+	font-size: 15px;
+	background-color: #FF9966;
+    width: 98%;
+    height: 50;
+
+}
+body {
+	background color: #FFFF99;
+}
+footer a {
+	text-decoration: none;
+	background color: #FFCC66;
+	font-family: veranda;
+
+
+}
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
